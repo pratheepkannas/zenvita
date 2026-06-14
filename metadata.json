@@ -1,0 +1,6 @@
+{
+  "name": "Zenvita",
+  "description": "Heart rate and temperature monitoring via Bluetooth",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
